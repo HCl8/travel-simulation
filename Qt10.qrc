@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="Qt10">
+    <file>Resources/test.jpg</file>
+    <file>Resources/bus_s.png</file>
+    <file>Resources/train_s.png</file>
+    <file>Resources/flag.png</file>
+    <file>Resources/wait.png</file>
+    <file>Resources/Map2.0.jpg</file>
+    <file>stop.png</file>
+    <file>Resources/airplane.png</file>
+    <file>Resources/bus.png</file>
+    <file>Resources/train.png</file>
+    <file>play.png</file>
+    <file>Resources/Map.PNG</file>
+  </qresource>
+</RCC>
